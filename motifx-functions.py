@@ -393,5 +393,5 @@ if __name__ == '__main__':
     pval_cutoff = float(sys.argv[5])
     verbose = sys.argv[6]
     perl_impl = sys.argv[7]
-    mot = motifx(fg_seqs, bg_seqs, central_res, min_seqs, pval_cutoff, verbose=True, perl_impl=True)
+    mot = motifx(fg_seqs, bg_seqs, central_res, min_seqs, pval_cutoff, verbose, perl_impl)
     print(mot)
