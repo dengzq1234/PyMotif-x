@@ -18,7 +18,7 @@ git clone https://github.com/dengzq1234/PyMotif-x.git
 
 # Usage
 
-The script contains the function motifx is the main function. Before you start a run, you will need a foreground and background dataset of sequences. The sample dataset are extracted from another re-implementation, rmotifx. If you are a R user, please refer to rmotifx resource and its research.
+The script contains the function motifx is the main function. Before you start a run, you will need a foreground and background dataset of sequences. The sample dataset are extracted from another re-implementation, rmotifx. If you are a R user, please refer to rmotifx [resource](https://github.com/omarwagih/rmotifx) and its research.
 
 The package has attached sample data for test run:
 fg-data-test.txt
@@ -58,7 +58,7 @@ The resutls returned should have the following formats:
 8     7.270142  .......S.E.....          25      110         342     5127       3.407097
 ```
 
-For detailed explanations of all parameters and output, check out the documentation by typing man motifx. You can also refer to the original motif-x resource, paper. If you want to check its usage in R, please check: 
+For detailed explanations of all parameters and output, check out the documentation by typing man motifx. You can also refer to the original motif-x [resource](http://motif-x.med.harvard.edu/). If you want to check its usage in R, please check: 
 
 Wagih O, Sugiyama N, Ishihama Y, Beltrao P. (2015) Uncovering phosphorylation-based specificities through functional interaction networks (2015). Mol. Cell. Proteomics PUBMED
 
@@ -70,4 +70,4 @@ Wagih O, Sugiyama N, Ishihama Y, Beltrao P. (2015) Uncovering phosphorylation-ba
 
 # Feedback
 
-If you have any feedback or suggestions, please left me a message at (dengziqi1234(at)gmail.com) or open an issue on github.
+If you have any feedback or suggestions, please left me a message at dengziqi1234(at)gmail.com) or open an issue on github.
